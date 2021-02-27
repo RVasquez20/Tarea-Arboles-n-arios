@@ -28,7 +28,7 @@ public class Tarea1 {
         TF=T.getC();
         String NombreImagen="ArbolGenerado.jpg";        
         V.RepList.setText(TF);
-        Image.setIcon(new javax.swing.ImageIcon("C:\\Users\\rodri\\Documents\\GitHub\\Arboles\\Tarea1\\"+NombreImagen));
+        Image.setIcon(new javax.swing.ImageIcon("C:\\Users\\rodri\\Documents\\GitHub\\Tarea-Arboles-n-arios\\Tarea1\\"+NombreImagen));
         V.show();
         
         

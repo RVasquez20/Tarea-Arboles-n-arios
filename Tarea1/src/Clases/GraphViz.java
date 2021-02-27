@@ -81,7 +81,7 @@ public class GraphViz
     * The dir. where temporary files will be created.
     */
     
-   private static String TEMP_DIR = "C:\\Users\\rodri\\Documents\\GitHub\\Arboles\\Tarea1";	// Linux
+   private static String TEMP_DIR = "C:\\Users\\rodri\\Documents\\GitHub\\Tarea-Arboles-n-arios\\Tarea1";	// Linux
  //private static String TEMP_DIR = "C:\\Users\\Default\\AppData\\Local\\Temp";	// Windows
 
    /**
