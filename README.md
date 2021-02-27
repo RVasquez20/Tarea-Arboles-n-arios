@@ -27,6 +27,7 @@
 ![2](https://user-images.githubusercontent.com/55126792/108606936-f3e8e000-7382-11eb-85b1-12d5a2989c09.PNG)
 
 ##Paso 4:
+
 ###Para salir del programa se debe presionar el botón salir, y se mostrara un mensaje antes de finalizar el programa:
 
 ![3](https://user-images.githubusercontent.com/55126792/108606966-2266bb00-7383-11eb-9dbb-79e611dd6cd4.PNG)
